@@ -37,7 +37,7 @@ a:visited {
 .footerPlaceHolder {
   position: absolute;
   bottom: 0;
-  width: 100vw;
+  width: 99vw;
 }
 
 .material-icons {
